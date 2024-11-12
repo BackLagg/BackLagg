@@ -16,7 +16,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="www.linkedin.com/in/arseny-bahur-17836a222" target="_blank">
+  <a href="https://linkedin.com/in/arseny-bahur-17836a222" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
