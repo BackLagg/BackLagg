@@ -43,8 +43,8 @@
   <a href="https://linkedin.com/in/arseny-bahur-17836a222" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://rabota.by/resume/ed61a523ff0dea4eac0039ed1f4b5458505773" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=linkedin&label=Резюме&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume" />
+  <a href="https://hh.ru/resume/ed61a523ff0dea4eac0039ed1f4b5458505773" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=linkedin&label=Resume&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume" />
   </a>
 </div>
 
