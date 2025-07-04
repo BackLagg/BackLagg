@@ -25,6 +25,8 @@
 
 ###
 
+<a name="-обо-мне"></a>
+
 <details open>
 <summary>🇷🇺 Русская версия</summary>
 
@@ -42,7 +44,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://rabota.by/resume/ed61a523ff0dea4eac0039ed1f4b5458505773" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=linkedin&label=Резюме&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume" />
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=linkedin&label=Резюме&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="" />
   </a>
 </div>
 
@@ -82,6 +84,8 @@
 
 ###
 
+<a name="-проекты"></a>
+
 <h3 align="left">🚀 Проекты</h3>
 
 ###
@@ -95,6 +99,8 @@
 </div>
 
 ###
+
+<a name="-технологический-стек"></a>
 
 <h3 align="center">🛠 Технологический стек</h3>
 
@@ -164,6 +170,8 @@
 
 ###
 
+<a name="-статистика-github"></a>
+
 <h3 align="left">📊 Статистика GitHub</h3>
 
 ###
@@ -176,6 +184,8 @@
 </details>
 
 ---
+
+<a name="-english-version"></a>
 
 <details>
 <summary>🇺🇸 English Version</summary>
@@ -206,6 +216,8 @@
 
 ###
 
+<a name="-about-me"></a>
+
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
@@ -234,6 +246,8 @@
 
 ###
 
+<a name="-projects"></a>
+
 <h3 align="left">🚀 Projects</h3>
 
 ###
@@ -247,6 +261,8 @@
 </div>
 
 ###
+
+<a name="-tech-stack"></a>
 
 <h3 align="center">🛠 Tech Stack</h3>
 
@@ -315,6 +331,8 @@
 </div>
 
 ###
+
+<a name="-github-statistics"></a>
 
 <h3 align="left">📊 GitHub Statistics</h3>
 
