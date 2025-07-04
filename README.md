@@ -6,6 +6,30 @@
 
 ###
 
+<h3 align="center">📋 Оглавление</h3>
+
+#### 🇷🇺 RU
+
+- [👩‍💻 Обо мне](#-обо-мне)
+- [🚀 Проекты](#-проекты)
+- [🛠 Технологический стек](#-технологический-стек)
+- [📊 Статистика GitHub](#-статистика-github)
+- [🇺🇸 English Version](#-english-version)
+
+#### 🇺🇸 EN
+
+- [👩‍💻 About Me](#-about-me)
+- [🚀 Projects](#-projects)
+- [🛠 Tech Stack](#-tech-stack)
+- [📊 GitHub Statistics](#-github-statistics)
+
+###
+
+<details open>
+<summary>🇷🇺 Русская версия</summary>
+
+###
+
 <h1 align="center">Привет👋 Меня зовут Арсений!</h1>
 
 ###
@@ -101,9 +125,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html5" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css3" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
   <img width="12" />
@@ -146,16 +170,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BackLagg&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BackLagg&locale=ru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=ru&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BackLagg&locale=ru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=ru&hide_border=false&order=1" height="150" alt="" />
 </div>
 
-###
+</details>
 
 ---
 
-<div align="center">
-  <h2>🇺🇸 English Version</h2>
-</div>
+<details>
+<summary>🇺🇸 English Version</summary>
+
+###
 
 <h1 align="center">Hello👋 I'm Arseny!</h1>
 
@@ -168,9 +193,15 @@
   <a href="https://linkedin.com/in/arseny-bahur-17836a222" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://rabota.by/resume/ed61a523ff0dea4eac0039ed1f4b5458505773" target="_blank">
+  <a href="https://hh.ru/resume/ed61a523ff0dea4eac0039ed1f4b5458505773" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=linkedin&label=Resume&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BackLagg.BackLagg&" />
 </div>
 
 ###
@@ -246,9 +277,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html5" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css3" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
   <img width="12" />
@@ -291,5 +322,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BackLagg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BackLagg&locale=en&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BackLagg&locale=en&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="" />
 </div>
+
+</details>
