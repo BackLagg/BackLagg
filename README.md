@@ -8,6 +8,10 @@
 
 <h3 align="center">📋 Оглавление</h3>
 
+<div align="center">
+
+<div style="display: inline-block; margin-right: 50px;">
+
 #### 🇷🇺 RU
 
 - [👩‍💻 Обо мне](#-обо-мне)
@@ -16,12 +20,20 @@
 - [📊 Статистика GitHub](#-статистика-github)
 - [🇺🇸 English Version](#-english-version)
 
+</div>
+
+<div style="display: inline-block;">
+
 #### 🇺🇸 EN
 
 - [👩‍💻 About Me](#-about-me)
 - [🚀 Projects](#-projects)
 - [🛠 Tech Stack](#-tech-stack)
 - [📊 GitHub Statistics](#-github-statistics)
+
+</div>
+
+</div>
 
 ###
 
