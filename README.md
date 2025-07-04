@@ -177,7 +177,7 @@
 
 <a name="-english-version"></a>
 
-<details>
+<details open>
 <summary>🇺🇸 English Version</summary>
 
 ###
