@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="center">📋 Оглавление</h3>
+<h3 align="center">�� Оглавление</h3>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="45%">
+    <td>
 
 <strong>🇷🇺 RU</strong><br>
 
@@ -18,17 +18,15 @@
 - [🚀 Проекты](#-проекты)<br>
 - [🛠 Технологический стек](#-технологический-стек)<br>
 - [📊 Статистика GitHub](#-статистика-github)
-
 </td>
-    <td width="10%"></td>
-    <td align="center" width="45%">
+<td>
 
 <strong>🇺🇸 EN</strong><br>
 
 - [👩‍💻 About Me](#-about-me)<br>
 - [🚀 Projects](#-projects)<br>
 - [🛠 Tech Stack](#-tech-stack)<br>
-- [📊 GitHub Statistics](#-github-statistics)
+- [📊 GitHub Statistics](#-github-statistics)<br>
 
 </td>
   </tr>
